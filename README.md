@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Mathematics
+- Physics
+- GNU/Linux
+
 <!--
 **avishekdutta531/avishekdutta531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
