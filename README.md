@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avishekdutta531&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=avishekdutta531&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishekdutta531&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -46,11 +46,5 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-[comment]: <> (<img src="https://raw.githubusercontent.com/avishekdutta531/avishekdutta531/output/github-contribution-grid-snake.gif" alt="Snake animation" />)
 
 ###
