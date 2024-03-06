@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyroruyk&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&disable_animations=true&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tyroruyk&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=false&disable_animations=true&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyroruyk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
